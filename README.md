@@ -12,7 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=SurajG20&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SurajG20&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+# Leetcode Stats:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Suraj__Goswami19)](https://github.com/KnlnKS/leetcode-stats)
 
 
 ---
