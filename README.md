@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Suraj Goswami
 # 💫 About Me:
-🎯   Learning the art of software development<br>🎓   Studying full-stack web development with the odin project <br>💼   Working hard to land my first development job or internship<br>🌱   I am currently learning React through project <br>✨   Loves solving DSA questions on Leetcode<br>
+🎯   Learning the art of software development<br>🎓   Studying full-stack web development with the odin project <br>💼 Looking for Frontend internship<br>🌱  I am currently working on React Project <br>✨   Loves solving DSA questions on Leetcode<br>
 
 
 ## 🌐 Socials:
@@ -13,8 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SurajG20&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SurajG20&icon=1&color=6)](https://visitcount.itsvg.in)
