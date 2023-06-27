@@ -1,6 +1,5 @@
 #  Hi, I’m Suraj Goswami 👋
-[![](https://visitcount.itsvg.in/api?id=SurajG20&icon=1&color=6)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=SurajG20&color=green)
 #  About Me:
 🎯   Learning the art of software development<br>🎓   Studying full-stack web development with the odin project <br>💼 Looking for Frontend internship<br>🌱  I am currently working on React Project <br>✨   Loves solving DSA questions on Leetcode<br>
 
