@@ -1,21 +1,78 @@
-#  Hi, I’m Suraj Goswami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-![](https://komarev.com/ghpvc/?username=SurajG20&color=green)
+<div id="header" align="center">
 
-#  About Me:
--  Learning the art of software development
+<div id="badges"></div>
+	<a href="https://www.linkedin.com/in/suraj-goswami01">
+		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://portfolio-website-surajg20.vercel.app/">
+		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+	</a>
+  <a href="mailto:surajgoswami3000@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
+	</a>
+  <img src="https://img.shields.io/github/stars/SurajG20?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/>
+<a>
+	<img src="https://komarev.com/ghpvc/?username=SurajG20&style=for-the-badge&color=89C5D2" alt="profile views"/>
+</a>
+</div>
+
+<br>
+</br>
+
+</div>
+
+I'm <b>Suraj Goswami</b>, a Front Stack Web Developer from Bhopal, India IN
+
+- Learning the art of software development
+- I am currently working on React Projects
 - Studying full-stack web development with the odin project
 - Looking for Frontend internship
-- I am currently working on React Projects
--  Passionate about learning new technologies and building projects<br>
 
-#  Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+## Languages and Tools
+
+<p>
+  <img title="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+   <img title="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+  <img title="Sass" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" />
+  
+<!--   <img title="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescipt" /> -->
+  <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" />
+<!--   <img title="Nextjs" width="25px" src="https://imgur.com/hPofQoP.png" alt="next.js" /> -->
+  <img title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img title="redux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
+<!--   <img title="postgresql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /> -->
+<!--   <img title="Firebase" width="25px" src="https://i.imgur.com/ySmf4g5.png" alt="Firebase" /> -->
+<!--   <img title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" /> -->
+ <img title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+<!--   <img title="bootstrap" width="25px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstap" />                     -->
+<!--   <img title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> -->
+  <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="github" />
+<!--   <img title="ruby" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" />        -->
+<!--   <img title="go" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" />        -->
+<!--   <img title="express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" alt="Express" />             -->
+<!--   <img title="jets" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="Test" /> -->
+<!--   <img title="jquery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" /> -->
+<!--   <img title="eslint" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg#gh-dark-mode-only" alt="ESlint" /> -->
+<!--   <img title="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /> -->
+  <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Github" /> 
+</p>
+  
+<details>
+  <summary>⚡ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajG20&theme=tokyonight&show_icons=true" alt="SurajG20 Github Stats" />
+</details>
 
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-goswami-8b9106246) 
+<details>
+  <summary>🔥 GitHub Streak Stats</summary>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=SurajG20&theme=tokyonight" alt="Oops, something went wrong with Github streaks stats. Sorry!" />
+</details>
 
-#  GitHub Stats:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurajG20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajG20&theme=tokyonight" alt="mystreak"/>
+<details>
+  <summary>🌐 Most used languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&theme=tokyonight" alt="Oops, something went wrong with most used languages graph. Sorry!" />
+</details>
