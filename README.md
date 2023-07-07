@@ -4,7 +4,7 @@
 	<a href="https://www.linkedin.com/in/suraj-goswami01">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
-	<a href="https://portfolio-website-surajg20.vercel.app/">
+	<a href="https://portfolio-iej5pqggb-surajg20.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 	</a>
   <a href="mailto:surajgoswami3000@gmail.com">
