@@ -24,7 +24,7 @@
 I'm <b>Suraj Goswami</b>, a Full Stack Web Developer from Bhopal, India IN
 
 - Learning the art of software development
-- I am currently working in Livinart Technologies.
+  
 
 ## Languages and Tools
 
@@ -55,22 +55,4 @@ I'm <b>Suraj Goswami</b>, a Full Stack Web Developer from Bhopal, India IN
 <img title="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /> 
   <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Github" /> 
 </p>
-  
-<details>
-  <summary>⚡ Github Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajG20&theme=tokyonight&show_icons=true" alt="SurajG20 Github Stats" />
-</details>
 
-
-<details>
-  <summary>🔥 GitHub Streak Stats</summary>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=SurajG20&theme=tokyonight" alt="Oops, something went wrong with Github streaks stats. Sorry!" />
-</details>
-
-<details>
-  <summary>🌐 Most used languages</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&theme=tokyonight" alt="Oops, something went wrong with most used languages graph. Sorry!" />
-</details>
