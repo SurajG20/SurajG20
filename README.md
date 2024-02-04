@@ -1,30 +1,18 @@
-<div id="header" align="center">
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-<div id="badges"></div>
-	<a href="https://www.linkedin.com/in/suraj-goswami01">
-		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
-	<a href="https://www.surajgoswami.me/">
-		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-	</a>
-  <a href="mailto:surajgoswami3000@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
-	</a>
-  <img src="https://img.shields.io/github/stars/SurajG20?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/>
-<a>
-	<img src="https://komarev.com/ghpvc/?username=SurajG20&style=for-the-badge&color=89C5D2" alt="profile views"/>
-</a>
-</div>
+There is a land where I dumps my code and have a break.
 
-<br>
-</br>
+I'm currently learning and exploring new tech.
 
-</div>
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
 
-I'm <b>Suraj Goswami</b>, a Full Stack Web Developer from Bhopal, India IN
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajG20&layout=compact&hide=css,html)
 
-- Learning the art of software development
-  
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=surajG20&count_private=true&show_icons=true&theme=onedark)
+
+</details>
 
 ## Languages and Tools
 
