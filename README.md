@@ -1,98 +1,65 @@
 # Hi, I'm Suraj Goswami 👋
 
-Backend-Focused Full Stack Engineer passionate about building scalable backend systems, distributed architectures, and AI-powered applications.
+**AI & Full Stack Engineer** — I build LLM-powered products, RAG systems, and the production backends behind them.
 
-## 🚀 About Me
-
-- 💼 Backend-Focused Full Stack Engineer
-- ⚡ Building scalable APIs with Node.js & TypeScript
-- 🔄 Experienced with Redis, BullMQ, WebSockets & Event-Driven Systems
-- 🤖 Exploring AI Agents, LLM Integrations & RAG
-- ☁️ AWS | Docker | PostgreSQL | MongoDB
-- 🌱 Currently learning System Design, Distributed Systems & AI Infrastructure
+> 2.5+ years shipping fintech, real-time, and AI-powered systems with Node.js, TypeScript, Python, Redis, PostgreSQL, and AWS.
 
 ---
 
-## 🛠 Tech Stack
+## 🤖 What I Work On
 
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- SQL
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets
-- BullMQ
-- Redis
-
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-
-### Cloud & DevOps
-- AWS
-- Docker
-- GitHub Actions
-- Git
-
-### AI
-- OpenAI APIs
-- Cursor
-- Claude
-- ChatGPT
+- 🧠 **Production AI backends** — FastAPI + SQLAlchemy services integrating LLM APIs into real data workflows
+- 🔎 **RAG & GraphRAG** — Tree-sitter parsing, Neo4j knowledge graphs, Qdrant vector search, LangChain orchestration
+- 💸 **Payment infrastructure** — multi-tenant crypto payment gateway processing 100+ daily payments across stablecoins & tokens
+- ⚡ **Async & real-time systems** — BullMQ + Redis pipelines that cut request latency from 4s to under 100ms (97%)
+- ☁️ **Cloud-native ops** — AWS, Docker, GitHub Actions CI/CD, Prometheus + Grafana observability
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎮 Telegram Mini App Gaming Platform
-- 20k+ Monthly Active Users
-- Distributed BullMQ Workers
-- Payment Gateway Integration
-- Redis + PostgreSQL
-- Optimized processing from 4s → <100ms
+### 🧩 [GraphMind](https://github.com/SurajG20/ai-repo-workspace)
+GraphRAG platform that answers repository-architecture questions using hybrid vector + graph retrieval.
+`FastAPI` `Tree-sitter` `Neo4j` `Qdrant` `LangChain`
+- Deterministic repo parsing before any LLM call keeps output grounded
+- Pluggable BYOK layer: OpenAI · Anthropic · Ollama — swap models without touching app logic
+
+### 🥗 [Calorie Tracker](https://github.com/SurajG20/Calorie-Tracker)
+AI nutrition tracker that converts natural-language meal descriptions into structured nutrition data.
+`Next.js` `Node.js` `OpenAI API` `PostgreSQL` `Redis`
+- Redis-based rate limiting protects OpenAI spend; caching keeps repeat queries instant
+
+### 🔐 [Custodia](https://github.com/SurajG20/Custodia)
+Decentralized escrow platform for milestone-based payments on Binance Smart Chain.
+`Solidity` `Next.js` `Supabase` `Reown/WalletConnect`
+- Smart contracts with automated release conditions + wallet integration
 
 ---
 
-### 🥗 AI Calorie Tracker
-- AI-powered meal recognition
-- OpenAI Integration
-- PostgreSQL
-- Next.js
-- TypeScript
+## 🛠 Tech Stack
 
----
-
-### 🔐 Custodia
-Decentralized escrow platform built using smart contracts and Web3 technologies.
+| Area | Tools |
+|------|-------|
+| **AI / LLM** | OpenAI APIs · Anthropic · LangChain · RAG · GraphRAG · Qdrant · Neo4j · Tree-sitter |
+| **Languages** | TypeScript · JavaScript · Python · SQL |
+| **Backend** | Node.js · Express · NestJS · FastAPI · SQLAlchemy · REST APIs · WebSockets · BullMQ · Redis · Event-Driven Architecture |
+| **Frontend** | React.js · Next.js · Tailwind CSS |
+| **Databases & Cloud** | PostgreSQL · MySQL · MongoDB · Neo4j · Qdrant · AWS (EC2 · S3 · Lambda) · Docker · GitHub Actions |
+| **Web3** | Solidity · Smart Contracts · Wallet Integration |
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SurajG20&show_icons=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&layout=compact"/>
-
-</p>
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajG20&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&layout=compact)
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/suraj-goswami01
-- 🌐 Portfolio: https://your-portfolio.com
-- 📧 surajgoswami3000@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/suraj-goswami01](https://linkedin.com/in/suraj-goswami01)
+- 🌐 Portfolio: [surajgoswami.vercel.app](https://surajgoswami.vercel.app/)
+- 📧 [surajgoswami3000@gmail.com](mailto:surajgoswami3000@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=SurajG20&color=8b7bff&style=flat-square)
