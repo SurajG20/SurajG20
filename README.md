@@ -48,7 +48,7 @@ Streaming career-counseling chat with session persistence and secure auth.
 `Next.js 15` `tRPC` `NextAuth` `Drizzle` `PostgreSQL` `OpenAI`
 - tRPC + Drizzle session history, streaming responses, dark/light responsive UI
 
-### 🔗 [SiliconTrace (Wexa AI)](https://github.com/SurajG20/wexa-ai-assessment) · [Live](https://wexa-ai-drab.vercel.app)
+### 🔗 [SiliconTrace](https://github.com/SurajG20/silicon-trace) · [Live](https://silicon-trace.vercel.app)
 Pick any fab offline — see which products die, revenue at risk, and where to dual-source.
 `Next.js` `Neo4j` `CognoDB` `Cypher` `Recharts`
 - 515 nodes / 999 rels BOM graph; blast-radius Cypher traversals ranked by revenue at risk
