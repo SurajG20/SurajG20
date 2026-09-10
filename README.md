@@ -90,13 +90,6 @@ Static knowledge base: distributed systems, DBs, caching, messaging, and case st
 
 ---
 
-## 📈 GitHub Stats
-
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajG20&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajG20&layout=compact)
-
----
-
 ## 📫 Connect
 
 - 💼 LinkedIn: [linkedin.com/in/suraj-goswami01](https://linkedin.com/in/suraj-goswami01)
