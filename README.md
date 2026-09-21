@@ -1,5 +1,7 @@
 # Suraj Goswami
 
+<!-- GitHub profile bio (Settings → Profile): AI & full-stack engineer · GraphRAG & production backends · https://surajgoswami.vercel.app -->
+
 **Full Stack Engineer focused on Backend Systems & AI/GenAI**
 
 Building production-grade backend systems, AI-powered applications, RAG/GraphRAG pipelines, and scalable web products.
@@ -78,6 +80,18 @@ RAG assistant wired into WhatsApp Business workflows with operational data in Go
 Milestone escrow on BSC — on-chain release rules with wallet auth and off-chain lifecycle state.
 
 `Solidity` · `Next.js` · `Supabase` · `Reown` · `WalletConnect`
+
+### More repos worth opening
+
+| Repo | One line |
+|------|----------|
+| [cross-tool-sync](https://github.com/SurajG20/cross-tool-sync) | Outbox/inbox GitHub Issues sync · BullMQ · conflicts |
+| [shipstream-tms](https://github.com/SurajG20/shipstream-tms) | NestJS GraphQL TMS · 6k shipments · RBAC |
+| [pdf-analyzer](https://github.com/SurajG20/pdf-analyzer) | Self-hosted PDF page picker · tested monorepo |
+| [pyrock.ai](https://github.com/SurajG20/pyrock.ai) | LLM extracts Hinglish site notes · deterministic inventory |
+| [BudgetWise](https://github.com/SurajG20/BudgetWise) | 50/30/20 + AI health check citing your metrics |
+
+**Pin on GitHub (6):** `ai-repo-workspace` · `silicon-trace` · `cross-tool-sync` · `shipstream-tms` · `pdf-analyzer` · `pyrock.ai`
 
 ---
 
