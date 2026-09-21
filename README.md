@@ -1,99 +1,88 @@
-# Hi, I'm Suraj Goswami 👋
+# Suraj Goswami
 
-**AI & Full Stack Engineer** — I build production AI systems on backends that don't break.
+**Full Stack Engineer focused on Backend Systems & AI/GenAI**
 
-> 2.5+ years shipping fintech, real-time, and AI-powered systems — LLM integrations, RAG pipelines, payment infrastructure, and event-driven backends with Node.js, TypeScript, Python, Redis, PostgreSQL, and AWS.
+Building production-grade backend systems, AI-powered applications, RAG/GraphRAG pipelines, and scalable web products.
 
-📍 Mohali, India · 🟢 Open to AI Engineer roles
+**Focus:** Node.js · TypeScript · Python · FastAPI · React · Next.js · PostgreSQL · Redis · AWS · RAG · LangChain · Neo4j · Qdrant
 
----
-
-## 🤖 What I Work On
-
-- 🧠 **Production AI backends** — FastAPI + SQLAlchemy services integrating LLM APIs into real data workflows
-- 🔎 **RAG & GraphRAG** — Tree-sitter parsing, Neo4j knowledge graphs, Qdrant vector search, LangChain orchestration
-- 💸 **Payment infrastructure** — multi-tenant crypto payment gateway processing 100+ daily payments across stablecoins & tokens
-- ⚡ **Async & real-time systems** — BullMQ + Redis pipelines that cut request latency from 4s to under 100ms (97%)
-- ☁️ **Cloud-native ops** — AWS, Docker, GitHub Actions CI/CD, Prometheus + Grafana observability
+📍 Mohali, India · Open to **Backend Engineer**, **Full Stack Developer**, **AI / GenAI Engineer**, **Python Backend Developer**, and **Software Engineer (SDE)** roles
 
 ---
 
-## 🌟 Featured Projects
-
-Most live on Vercel — code + demo linked below.
-
-### 🧩 [GraphMind](https://github.com/SurajG20/ai-repo-workspace)
-GraphRAG platform that answers repository-architecture questions using hybrid vector + graph retrieval.
-`FastAPI` `Tree-sitter` `Neo4j` `Qdrant` `LangChain`
-- Deterministic repo parsing before any LLM call keeps output grounded
-- Pluggable BYOK layer: OpenAI · Anthropic · Ollama — swap models without touching app logic
-
-### 🔐 [Custodia](https://github.com/SurajG20/escrow-freelancer) · [Live](https://escrow-freelancer.vercel.app)
-Milestone-based escrow on BSC — Solidity contracts release funds automatically when conditions are met.
-`Solidity` `Next.js` `Supabase` `Reown` `WalletConnect`
-- Wallet auth + transaction signing flows mirroring on-chain escrow lifecycle off-chain
-
-### 🥗 [Calorie Tracker](https://github.com/SurajG20/calorie-tracker) · [Live](https://calorie-tracker-suraj-goswamis-projects.vercel.app)
-Converts natural-language meal descriptions into structured nutrition data via OpenAI APIs.
-`Next.js` `Node.js` `OpenAI API` `PostgreSQL` `Redis`
-- Redis-based rate limiting protects OpenAI spend; caching keeps repeat queries instant
-
-### 💰 [BudgetWise](https://github.com/SurajG20/BudgetWise) · [Live](https://budget-wise-swart.vercel.app)
-Personal finance planner with 50/30/20 dashboard and an AI health check that cites your actual numbers.
-`Next.js` `Prisma` `SQLite` `Recharts` `JWT`
-- JWT httpOnly auth, month-filtered ledgers, budget bars, PDF/CSV export, exactly-3 grounded AI recommendations
-
-### 💬 [CareerPath AI](https://github.com/SurajG20/ai-chat-application) · [Live](https://chat-application-suraj-goswamis-projects.vercel.app)
-Streaming career-counseling chat with session persistence and secure auth.
-`Next.js 15` `tRPC` `NextAuth` `Drizzle` `PostgreSQL` `OpenAI`
-- tRPC + Drizzle session history, streaming responses, dark/light responsive UI
-
-### 🔗 [SiliconTrace](https://github.com/SurajG20/silicon-trace) · [Live](https://silicon-trace.vercel.app)
-Pick any fab offline — see which products die, revenue at risk, and where to dual-source.
-`Next.js` `Neo4j` `CognoDB` `Cypher` `Recharts`
-- 515 nodes / 999 rels BOM graph; blast-radius Cypher traversals ranked by revenue at risk
-
-### 🏗️ [Pyrock AI](https://github.com/SurajG20/pyrock.ai) · [Live](https://pyrock-ai.vercel.app)
-Turns informal English/Hindi/Hinglish site messages into structured events; deterministic code owns inventory math.
-`Next.js` `Drizzle` `libSQL` `Zod` `OpenAI` `Anthropic`
-- Pluggable LLM backends (OpenAI/Anthropic/free OpenCode/mock) with idempotent stock register
-
-### 🚚 [ShipStream TMS](https://github.com/SurajG20/shipstream-tms) · [Live](https://shipstream-tms.vercel.app)
-Operations TMS demo: 6,000 shipments across 46 US lanes via GraphQL API + React console.
-`NestJS` `GraphQL` `Prisma` `PostgreSQL` `React 19` `Tailwind`
-- JWT role guards, raw-SQL KPIs, codegen-typed hooks, charts + Leaflet maps
-
-### 📦 [Inventory Order System](https://github.com/SurajG20/inventory-order-management) · [Live](https://inventory-order-system-mu.vercel.app)
-FastAPI + Postgres backend with Vite React dashboard for stock, orders, and sales analytics.
-`FastAPI` `SQLAlchemy` `PostgreSQL` `React` `Vite` `TanStack Query`
-
-### 📊 [Portfolio Dashboard](https://github.com/SurajG20/octa-byte-ai-assignment) · [Live](https://octa-byte-ai-assignment-ochre.vercel.app)
-Holdings dashboard with live Yahoo Finance prices, P/E context, sector breakdown, 15s refresh.
-`Next.js` `TypeScript` `yahoo-finance2` `Cheerio` `TanStack Table`
-
-### 📚 [System Design Notes](https://github.com/SurajG20/system-design-notes) · [Live](https://system-design-notes-seven.vercel.app)
-Static knowledge base: distributed systems, DBs, caching, messaging, and case studies (e.g. Netflix).
-`Astro` `MDX` `TypeScript`
-
----
-
-## 🛠 Tech Stack
+## Core skills
 
 | Area | Tools |
-|------|-------|
-| **AI / LLM** | OpenAI APIs · Anthropic · LangChain · RAG · GraphRAG · Qdrant · Neo4j · Tree-sitter |
+|------|--------|
 | **Languages** | TypeScript · JavaScript · Python · SQL |
-| **Backend** | Node.js · Express · NestJS · FastAPI · SQLAlchemy · REST APIs · WebSockets · BullMQ · Redis · Event-Driven Architecture |
-| **Frontend** | React.js · Next.js · Tailwind CSS |
-| **Databases & Cloud** | PostgreSQL · MySQL · MongoDB · Neo4j · Qdrant · AWS (EC2 · S3 · Lambda) · Docker · GitHub Actions |
-| **Web3** | Solidity · Smart Contracts · Wallet Integration |
+| **Backend** | Node.js · Express.js · NestJS · FastAPI · REST APIs · WebSockets · BullMQ |
+| **Frontend** | React.js · Next.js |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Supabase |
+| **Caching & queues** | Redis · BullMQ |
+| **AI / LLM** | RAG · GraphRAG · LangChain · LLM agents · vector search · prompt engineering |
+| **AI infrastructure** | Qdrant · Neo4j · Tree-sitter |
+| **Cloud / DevOps** | AWS · Docker · GitHub Actions |
+| **Other** | Payments · webhooks · authentication · real-time systems · system design |
 
 ---
 
-## 📫 Connect
+## Featured work
 
-- 💼 LinkedIn: [linkedin.com/in/suraj-goswami01](https://linkedin.com/in/suraj-goswami01)
-- 🌐 Portfolio: [surajgoswami.vercel.app](https://surajgoswami.vercel.app/)
-- 📧 [surajgoswami3000@gmail.com](mailto:surajgoswami3000@gmail.com)
+Three projects that map to **backend → full stack → AI/GenAI**.
 
-![](https://komarev.com/ghpvc/?username=SurajG20&color=8b7bff&style=flat-square)
+### 1. [GraphMind](https://github.com/SurajG20/ai-repo-workspace) — AI / GraphRAG / developer tool
+
+GraphRAG platform for repository intelligence: hybrid vector + graph retrieval, deterministic parsing, and grounded Q&A over codebases.
+
+`FastAPI` · `Next.js` · `Neo4j` · `Qdrant` · `LangChain` · `Tree-sitter`
+
+- Tree-sitter symbol graphs in Neo4j + Qdrant hybrid retrieval (RRF)
+- Grounded answers with evidence; works without an LLM key via deterministic retrieval
+- Monorepo with Docker Compose, indexing pipeline, and architecture explorer UI
+
+### 2. [SiliconTrace](https://github.com/SurajG20/silicon-trace) · [Live demo](https://silicon-trace.vercel.app) — supply chain risk intelligence
+
+Model fab outages and blast radius across BOM graphs — products at risk, revenue exposure, and dual-source options.
+
+`Next.js` · `Neo4j` · `Cypher` · `Recharts`
+
+- Recursive graph traversals over 515+ nodes / 999 relationships
+- Business-facing risk views ranked by revenue at risk
+- Cypher-heavy queries and deterministic seeding for repeatable demos
+
+### 3. Crypto payment gateway — production backend / FinTech
+
+Multi-tenant payment infrastructure in production (private repo — architecture and outcomes on [portfolio](https://surajgoswami.vercel.app/)).
+
+`Node.js` · `Redis` · `BullMQ` · `Webhooks` · `Payments`
+
+- **3+** production clients · **100+** daily payments (stablecoin / token flows)
+- Async processing with BullMQ; reconciliation, retries, and webhook-driven state
+- Cut hot-path latency from **4s → under 100ms** (~**97%**) by moving work off the request path
+
+---
+
+## More projects
+
+### WhatsApp RAG chatbot — AI + business automation
+
+RAG assistant wired into WhatsApp Business workflows with operational data in Google Sheets (production integration; repo private).
+
+`RAG` · `LangChain` · `Meta Business API` · `Google Sheets`
+
+- Retrieval-grounded replies on business knowledge, not one-off prompts
+- End-to-end flow from channel → LLM pipeline → structured business updates
+
+### [Custodia](https://github.com/SurajG20/escrow-freelancer) · [Live demo](https://escrow-freelancer.vercel.app) — Web3 / escrow
+
+Milestone escrow on BSC — on-chain release rules with wallet auth and off-chain lifecycle state.
+
+`Solidity` · `Next.js` · `Supabase` · `Reown` · `WalletConnect`
+
+---
+
+## Connect
+
+- Portfolio: [surajgoswami.vercel.app](https://surajgoswami.vercel.app/)
+- LinkedIn: [linkedin.com/in/suraj-goswami01](https://linkedin.com/in/suraj-goswami01)
+- Email: [surajgoswami3000@gmail.com](mailto:surajgoswami3000@gmail.com)
