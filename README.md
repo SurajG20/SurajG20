@@ -81,6 +81,26 @@ Milestone escrow on BSC — on-chain release rules with wallet auth and off-chai
 
 ---
 
+## Snapshot
+
+<div align="center">
+
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20%7C%20Backend%20%26%20AI-8b7bff?style=for-the-badge)
+![Location](https://img.shields.io/badge/Mohali-India-555?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-surajgoswami.vercel.app-8b7bff?style=for-the-badge&logo=vercel&logoColor=white)
+
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,py,fastapi,react,nextjs,postgres,redis,docker,aws,nestjs&theme=dark)](https://surajgoswami.vercel.app/)
+
+[![GitHub stats](./profile/stats.svg)](https://github.com/SurajG20)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SurajG20&theme=minimal&hide_border=true&area=true&height=210)](https://github.com/SurajG20)
+
+[![GraphMind](./profile/pin-graphmind.svg)](https://github.com/SurajG20/ai-repo-workspace)
+[![SiliconTrace](./profile/pin-silicon-trace.svg)](https://github.com/SurajG20/silicon-trace)
+
+</div>
+
+---
+
 ## Connect
 
 - Portfolio: [surajgoswami.vercel.app](https://surajgoswami.vercel.app/)
